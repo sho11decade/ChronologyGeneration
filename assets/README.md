@@ -1,0 +1,1 @@
+This directory contains asset files for the ChronologyGeneration project.

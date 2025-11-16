@@ -1,0 +1,1 @@
+This directory contains documentation for the ChronologyGeneration project.

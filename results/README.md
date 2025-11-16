@@ -1,0 +1,1 @@
+This directory contains the result files for the ChronologyGeneration project.

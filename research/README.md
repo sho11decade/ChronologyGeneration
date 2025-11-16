@@ -1,0 +1,1 @@
+This directory contains research materials for the ChronologyGeneration project.
